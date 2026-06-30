@@ -1,0 +1,76 @@
+{
+  "streams": [
+    {
+      "id": "1",
+      "streamerName": "Sofia",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&q=80",
+      "country": "Philippines",
+      "flagEmoji": "🇵🇭",
+      "viewerCount": 8200,
+      "isLive": true
+    },
+    {
+      "id": "2",
+      "streamerName": "Sofia",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?w=400&q=80",
+      "country": "Philippines",
+      "flagEmoji": "🇵🇭",
+      "viewerCount": 8200,
+      "isLive": true
+    },
+    {
+      "id": "3",
+      "streamerName": "Mia",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?w=400&q=80",
+      "country": "Brazil",
+      "flagEmoji": "🇧🇷",
+      "viewerCount": 6500,
+      "isLive": true
+    },
+    {
+      "id": "4",
+      "streamerName": "Emma",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?w=400&q=80",
+      "country": "India",
+      "flagEmoji": "🇮🇳",
+      "viewerCount": 9100,
+      "isLive": true
+    },
+    {
+      "id": "5",
+      "streamerName": "Lily",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df?w=400&q=80",
+      "country": "Philippines",
+      "flagEmoji": "🇵🇭",
+      "viewerCount": 7700,
+      "isLive": true
+    },
+    {
+      "id": "6",
+      "streamerName": "Aisha",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400&q=80",
+      "country": "India",
+      "flagEmoji": "🇮🇳",
+      "viewerCount": 5400,
+      "isLive": true
+    },
+    {
+      "id": "7",
+      "streamerName": "Sofia",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400&q=80",
+      "country": "Brazil",
+      "flagEmoji": "🇧🇷",
+      "viewerCount": 8200,
+      "isLive": true
+    },
+    {
+      "id": "8",
+      "streamerName": "Nora",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1504703395950-b89145a5425b?w=400&q=80",
+      "country": "Global",
+      "flagEmoji": "🌐",
+      "viewerCount": 11200,
+      "isLive": true
+    }
+  ]
+}

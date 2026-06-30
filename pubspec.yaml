@@ -1,0 +1,64 @@
+name: lvs_app
+description: "LVS Innovation - Alive Live Streaming App"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # State Management
+  provider: ^6.1.2
+
+  # Dependency Injection
+  get_it: ^8.0.2
+
+  # Navigation
+  go_router: ^14.3.0
+
+  # Firebase
+  firebase_core: ^3.6.0
+  firebase_auth: ^5.3.1
+  google_sign_in: ^6.2.1
+
+  # Local Storage
+  shared_preferences: ^2.3.2
+
+  # Network
+  http: ^1.2.2
+
+  # Animations
+  flutter_animate: ^4.5.0
+
+  # Typography
+  google_fonts: ^6.2.1
+
+  # Responsive
+  flutter_screenutil: ^5.9.3
+
+  # Audio
+  audioplayers: ^6.1.0
+
+  # Image caching
+  cached_network_image: ^3.4.1
+
+  cupertino_icons: ^1.0.8
+  flutter_dotenv: ^5.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/sounds/
+    - assets/icons/
+    - assets/data/
+    - .env
