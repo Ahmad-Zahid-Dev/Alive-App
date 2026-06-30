@@ -1,17 +1,53 @@
-# lvs_app
+# 🟢 Alive — Live Streaming App 🎥
 
-A new Flutter project.
+An ultra-modern, high-performance, and beautifully designed Live Streaming App built with **Flutter**. Alive features premium glassmorphic UI aesthetics, smooth micro-animations, fluid transitions, and responsive layouts.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+* 🚀 **Premium Glassmorphic UI** — Sleek frosted-glass cards, vibrant fluid gradient spots, and modern typography.
+* 🎥 **Interactive Streams Grid** — Multi-column streaming grid with automatic landscape scaling and aspect ratio preservation.
+* 🔥 **Dynamic Filters** — Filter live rooms by **Stream** (default), **Hot** (sorted by live viewers), and **Follow** (only showing followed streamers).
+* 🌍 **Global Country Filter** — Filter streams by country with custom flag indicators and smooth tab transitions.
+* ⚡ **Performance Tuned** — Zero keyboard focus lag, play-once list animations, and bounce scrolling.
+* 🔒 **Secure Configuration** — Complete `.env` environment variables setup keeping all sensitive Firebase keys hidden.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+* **Frontend:** Flutter 💙 & Dart 🎯
+* **State Management:** Provider 📦
+* **Database & Auth:** Firebase Core 🔥 & Google Sign-In 🔐
+* **Design System:** Custom Outfit Typography & Hex Brand Gradients (`#46af03`, `#f6eb00`, `#bbd500`) 🟢🟡
+* **Animations:** Flutter Animate & Custom Painters 💫
+
+---
+
+## 🚀 Quick Start
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/Ahmad-Zahid-Dev/Alive-App.git
+cd Alive-App
+```
+
+### 2. Configure Environment Variables
+Copy the template file to `.env` and insert your credentials:
+```bash
+cp .env.example .env
+```
+
+### 3. Get Dependencies
+```bash
+flutter pub get
+```
+
+### 4. Run the App
+```bash
+flutter run
+```
+
+---
+Developed with ❤️ by [Ahmad Zahid](https://github.com/Ahmad-Zahid-Dev)
